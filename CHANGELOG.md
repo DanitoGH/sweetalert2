@@ -1,3 +1,21 @@
+# [7.32.0](https://github.com/sweetalert2/sweetalert2/compare/v7.31.0...v7.32.0) (2018-12-13)
+
+
+### Bug Fixes
+
+* check this.running in timer methods ([#1327](https://github.com/sweetalert2/sweetalert2/issues/1327)) ([418b8d3](https://github.com/sweetalert2/sweetalert2/commit/418b8d3))
+* **ie11:** do not fail on <svg>.contains() ([#1331](https://github.com/sweetalert2/sweetalert2/issues/1331)) ([f85a929](https://github.com/sweetalert2/sweetalert2/commit/f85a929))
+* **ie11:** do not fail on <svg>.contains() ([#1331](https://github.com/sweetalert2/sweetalert2/issues/1331)) ([6bd3c4d](https://github.com/sweetalert2/sweetalert2/commit/6bd3c4d))
+* do not throw warnings when inputValue is a promise ([#1333](https://github.com/sweetalert2/sweetalert2/issues/1333)) ([6f94f7f](https://github.com/sweetalert2/sweetalert2/commit/6f94f7f))
+* do not throw warnings when inputValue is a promise ([#1333](https://github.com/sweetalert2/sweetalert2/issues/1333)) ([ecb2c35](https://github.com/sweetalert2/sweetalert2/commit/ecb2c35))
+* support HTMLElement for setting title/html/footer ([#1328](https://github.com/sweetalert2/sweetalert2/issues/1328)) ([6f35e48](https://github.com/sweetalert2/sweetalert2/commit/6f35e48))
+
+
+### Features
+
+* **api:** add .isTimerRunning() ([#1330](https://github.com/sweetalert2/sweetalert2/issues/1330)) ([6d10c8a](https://github.com/sweetalert2/sweetalert2/commit/6d10c8a))
+* **api:** add .isTimerRunning() ([#1330](https://github.com/sweetalert2/sweetalert2/issues/1330)) ([c747097](https://github.com/sweetalert2/sweetalert2/commit/c747097))
+
 ## [7.32.2](https://github.com/sweetalert2/sweetalert2/compare/v7.32.1...v7.32.2) (2018-12-09)
 
 
